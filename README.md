@@ -10,6 +10,8 @@ Fuer alle Abgabgen gilt es eine Datei 20181002_XX.c zu erstellen, wobei XX die N
      - Nehmen Sie hierfuer Schleifen zu Hilfe.
 5. Schreiben Sie ein Programm, welches zwei Zahlen einliest und den GGT berechnet!
 6. Schreiben Sie ein Programm, welches eine Zahl einliest und die Fakultaet dieser Zahl berechnet!
+7. Schreiben Sie ein Programm, welches die Eulersche Zahl in Naeherung berechnet!
+8. Schreiben Sie ein Programm, welches Primzahlen berechnet!
 
 ## Lernstoff
 * Einlesen mit scanf
