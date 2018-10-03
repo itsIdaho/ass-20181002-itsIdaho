@@ -1,9 +1,14 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-int zahl1=42;
-int zahl2=83;
-int zahl3=zahl2+zahl1;
-printf ("Die Summe von %d und %d ist %d\n",zahl1, zahl2, zahl3);
+    int a;
+    int b;
+    a=0;
+    b=0;
+printf ("Geben Sie die erste Zahl ein: ");
+scanf ("%d", &a);
+printf ("Geben Sie die zweite Zahl ein: ");
+scanf ("%d", &b);
+printf ("Die Summe von %d und %d ist %d\n",a, b,a+b);
 }
