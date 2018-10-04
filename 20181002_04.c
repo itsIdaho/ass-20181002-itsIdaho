@@ -29,9 +29,9 @@ int main()
         
     }
     
-    printf ("%d^%d ist %d\n", power)
+    printf ("%d^%d ist %d\n", x, y, power);
     
     return 0;
     
-}
+
 }
